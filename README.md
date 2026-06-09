@@ -23,12 +23,12 @@
 
 ### Innovation & Entrepreneurship
 
-🥈 2021 National Taitung University Student Innovation & Entrepreneurship Competition
+🏆 2021 National Taitung University Student Innovation & Entrepreneurship Competition
 
 * Creative Innovation Group – Merit Award
 * Project: Deep Learning-Based Smart Medication Box
 
-🥈 2021 National Taitung University Student Innovation & Entrepreneurship Competition
+🏆 2021 National Taitung University Student Innovation & Entrepreneurship Competition
 
 * Entrepreneurship Group – Merit Award
 * Project: Student Information Broadcasting Platform (Berconi Information Co.)
