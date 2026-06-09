@@ -1,12 +1,61 @@
 # Hi, I'm LIAO XIN YU  👋
 
-🎓 M.S. in Healthcare Information Management, National Chung Cheng University
+## Highlights
 
-🤖 Interested in AI Applications, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Healthcare AI
+🏆 IEEE COMPSAC 2024 Fast Abstracts
 
-💻 Experienced in building AI-powered applications using Python, OpenAI API, LangChain, ChromaDB, HuggingFace Embeddings, Flask, and Gradio
+🏆 2021 NTTU Innovation Competition Merit Award
+
+👨‍💼 Former President of Innovation & Entrepreneurship Club
+
+🤖 AI / LLM / RAG Developer
+
+🎓 M.S. Healthcare Information Management
 
 ---
+
+## 🏆 Achievements & Leadership
+
+### IEEE COMPSAC 2024 Fast Abstracts
+
+* Accepted Paper
+* *The Impact of a ChatGPT-Based Interactive System on Improving Older Adults’ Knowledge and Attitudes Toward Advance Care Planning*
+
+### Innovation & Entrepreneurship
+
+🥈 2021 National Taitung University Student Innovation & Entrepreneurship Competition
+
+* Creative Innovation Group – Merit Award
+* Project: Deep Learning-Based Smart Medication Box
+
+🥈 2021 National Taitung University Student Innovation & Entrepreneurship Competition
+
+* Entrepreneurship Group – Merit Award
+* Project: Student Information Broadcasting Platform (Berconi Information Co.)
+
+### Research & Academic Activities
+
+📄 2021 Information Management and E-Commerce Management Conference
+
+* Paper Presentation
+* Deep Learning-Based Smart Medication Box
+
+### Leadership
+
+👨‍💼 President, Innovation & Entrepreneurship Club
+
+* Elected President of NTTU Innovation & Entrepreneurship Club (2021)
+
+### Entrepreneurship Training
+
+🚀 Ministry of Education Entrepreneurship Program
+
+* Entrepreneurship Management Training Program Completion
+
+🏢 Startup Internship Program
+
+* 120 Hours Startup Industry Internship Experience
+
 
 ## About Me
 
